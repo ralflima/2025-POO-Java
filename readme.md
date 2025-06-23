@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ralflima/2025-POO-Java/blob/main/logo.png" width="30%">
-  <h1 style="border-bottom:none">Lógica e Algoritmos com Java</h1>
+  <h1 style="border-bottom:none">Orientação a Objetos com Java</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
   <a href="https://www.youtube.com/channel/UCtT934GO9Y7hoFPR_vmV5zQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><a href="https://www.linkedin.com/in/ralf-lima-3b93708a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
