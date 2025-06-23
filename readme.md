@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ralflima/2025-POO-Java/blob/master/logo.png" width="30%">
+  <img src="https://github.com/ralflima/2025-POO-Java/blob/main/logo.png" width="30%">
   <h1 style="border-bottom:none">Lógica e Algoritmos com Java</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
